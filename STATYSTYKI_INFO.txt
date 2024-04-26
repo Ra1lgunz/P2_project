@@ -1,0 +1,14 @@
+Sila: okresla sile fizyczna bohaterki
+-> zwieksza sile atakow fizycznych
+Magia: okresla poziom magii bohaterki
+-> zwieksza sile atakow magicznych
+-> zwieksza skutecznosc regeneracji zdrowia
+Zrecznosc: okresla czas reakcji i zdolnosc do uniku
+-> zwieksza prawdopodobienstwo unikniecia ataku przeciwnika
+Charyzma: okresla jak przekonujaca jest bohaterka
+-> umozliwia przekonywanie przeciwnikow do zaprzestania walki
+Wytrzymalosc: okresla podatnosc bohaterki na obrazenia
+-> zwieksza sprawnosc blokowania atakow przeciwnika
+Szczescie: taka smieszna statystyka, ktora nie ma sensu sie przejmowac
+
+Ataki fizyczne sa znacznie silniejsze niz ataki magiczne

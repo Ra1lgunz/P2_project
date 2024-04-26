@@ -1,0 +1,9 @@
+Stats_view: Wyswietla statystyki gracza
+Stats_meaning: Wyswietla znaczenie poszczegolnych statystyk postaci
+Mercy: Gdy statystyka przeciwnika 'Mercy' wynosi 100, mozesz odgonic przeciwnika bez zabijania go
+Heal: Regeneruje zdrowie, jest zalezna od statystyki 'Magia' postaci
+Magic_A: Atak magiczny, jest zalezna od statystyki 'Magia' postaci
+Physical_A: Atak fizyczny, jest zalezna od statystyki 'Sila' postaci
+Dodge: Unika nastepny atak przeciwnika o ile zostanie wykonany, jest zalezna od statystyki 'Zwinnosc' postaci i nieznacznie zwieksza statystyke 'Mercy' przeciwnika
+Talk: Przekonuje przeciwnika do zrezygnowania z walki, jest zalezna od statystyki 'Charyzma' postaci i zwieksza statystyke 'Mercy' przeciwnika
+Block: Blokuje atak przeciwnika o ile zostanie wykonany, jest zalezna od statystyki 'Wytrzymalosc' postaci i nieznacznie statystyke 'Mercy' przeciwnika

@@ -1,0 +1,29 @@
+WIEDZMA:
+	Zaawansowana wiedza i umiejetnosci magiczne
+	Statystyki standardowe:
+		Sila: 2
+		Magia: 4
+		Zrecznosc: 3
+		Charyzma: 3
+		Wytrzymalosc: 1
+		Szczescie: 2
+
+WOJOWNICZKA:
+	Jej niewiarygodna sila fizyczna umozliwia jej skuteczne blokowanie i atakowanie przeciwnikow przu uzyciu ciezkiego miecza i tarczy, utrudniajac zreczne uniki
+	Statystyki standardowe:
+		Sila: 4
+		Magia: 2
+		Zrecznosc: 3
+		Charyzma: 1
+		Wytrzymalosc: 3
+		Szczescie: 2
+
+LUCZNICZKA:
+	W walce posluguje sie dosyc lekkim lukiem, ktory nie pozwala jej na zbyt skuteczna obrone, ale umozliwia jej szybkie unikniecie ataku przeciwnika
+	Statystyki standardowe:
+		Sila: 1
+		Magia: 2
+		Zrecznosc: 4
+		Charyzma: 3
+		Wytrzymalosc: 3
+		Szczescie: 2

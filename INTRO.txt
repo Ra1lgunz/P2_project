@@ -1,0 +1,7 @@
+W tej grze wcielasz sie w postac elfiej ksiezniczki. Twoim zadaniem bedzie pokonanie maga, ktory zaczal tyranizowac krolestwo.
+Zasady rozgrywki:
+Co prawda autorka gry jest leniwa kluska, ale dala ci mozliwosc wyboru dowolnego imienia ksiezniczki. Ponadto jako gracz mozesz wybrac klase postaci sposrod nastepujacych: wiedzma, wojowniczka, luczniczka. W zwiazku z ich specyfika otrzymujesz dodatkowe punkty do statystyk. Aby dowiedziec sie o poszczegolnych klasach, w tym rowniez o bonusach wystarczy ze napiszesz "Class_info".
+A skoro juz o statystykach bylo wspomniane...
+Tak! Twoja postac ma statystyki! Po wyborze klasy, a co za tym idzie otrzymaniu z tego tytulu bonusow, bedziesz mogl dodatkowo rozdysponowac 10 punktow wedlug uznania. Podobnie jak w przypadku klas mozesz poczytac sobie o poszczegolnych statystykach wpisujac "Stats_info".
+Walka:
+W trakcie rozgrywki bedziesz natrafial na przeciwnikow. Nie mozna wyjsc  z pokoju, jesli przeciwnik nie zostanie pokonany lub pacyfistycznie przekonany do przylaczenia sie do twojej walki z magiem. Masz do dyspozycji ataki fizyczne, magiczne, leczenie, unik, blok lub rozmowe. W momencie kiedy mercy przeciwnika wyniesie 100, mozesz rowniez uzyc mercy, zeby zakonczyc walke bez zabijania przeciwnika.
