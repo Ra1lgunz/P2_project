@@ -68,7 +68,7 @@ def ruch(action,KP,Statystyki,Przeciwnik,opponent_action): #zawiera mozliwe ruch
             for line in classfile:
                 print (line)
 #---------Akcje w pokoju----------------------------------                
-    if action=='Attack': #uruchamia walke [Moze usune to albo wyifuje]
+    if action=='Attack': #uruchamia walke 
         walka(KP,Statystyki,Przeciwnik)
         
     if action=='Look': #Opis pomieszczenia, w ktorym sie znajdujemy
